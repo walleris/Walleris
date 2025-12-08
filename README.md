@@ -1,4 +1,4 @@
-## Olá me chamo Wallace Andrade👋
+## Wallace Andrade👋
 
 <div align="center">
 
