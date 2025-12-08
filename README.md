@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=98C379&background=00000000&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+o+Walleris;Desenvolvedor+Full+Stack;Python+%7C+SQL+%7C+CSS;Focando+em+Back-end+e+Front-end" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=98C379&background=00000000&center=true&vCenter=true&width=435&lines=Olá!+Eu+sou+o+Walleris;Desenvolvedor+Full+Stack;Python+|+SQL+|+CSS;Focado+em+Back-end+e+Front-end" alt="Typing SVG" />
   </a>
 
   <p>Bem-vindo ao meu perfil! Aqui você encontra meus projetos e estudos.</p>
@@ -21,8 +21,8 @@
   <br>
 
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walleris&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br&v=1"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walleris&layout=compact&theme=dracula&langs_count=6&v=1"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=walleris&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br&v=1"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walleris&layout=compact&theme=dracula&langs_count=6&v=1"/>
   </div>
   
   <br>
