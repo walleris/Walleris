@@ -23,7 +23,7 @@
   <br>
 
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Walleris&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walleris&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walleris&layout=compact&theme=dracula&langs_count=6"/>
   </div>
   
