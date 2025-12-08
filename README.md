@@ -37,8 +37,8 @@ Atualmente, estou focado em desenvolver aplicações robustas, escaláveis e seg
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=walleris&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br&v=1"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walleris&layout=compact&theme=dracula&langs_count=6&v=1"/>
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=walleris&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=walleris&layout=compact&theme=dracula&langs_count=6"/>
 </div>
 
 ---
@@ -57,7 +57,7 @@ Esse projeto representa parte importante da minha evolução e aprendizado no de
 ## 🐍 Minha contribuição no GitHub
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/walleris/walleris/output/github-contribution-grid-snake.svg?v=1" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/walleris/walleris/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
 
 ---
