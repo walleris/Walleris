@@ -21,14 +21,14 @@
   <br>
 
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walleris&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walleris&layout=compact&theme=dracula&langs_count=6"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walleris&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br&v=1"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walleris&layout=compact&theme=dracula&langs_count=6&v=1"/>
   </div>
   
   <br>
 
   <div align="center">
-    <img src="https://raw.githubusercontent.com/walleris/walleris/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+    <img src="https://raw.githubusercontent.com/walleris/walleris/output/github-contribution-grid-snake.svg?v=1" alt="Snake animation"/>
   </div>
 
   <br>
